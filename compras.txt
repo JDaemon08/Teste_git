@@ -10,3 +10,4 @@ Lista de compras
 8- Brigadeiro
 9- Balão
 10- Salgadinho
+11- velinha
