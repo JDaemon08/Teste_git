@@ -6,3 +6,6 @@ Lista de compras
 4- Nachos
 5- Biscoito
 6- Coquinha
+7- Copos
+8- Brigadeiro
+9- Balão
